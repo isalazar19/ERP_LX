@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFCP320C", "SFCP320C.csproj", "{F27A55AC-1A4B-4462-955E-A58EFFBCE12B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PavecaLdataConeccetionAS400", "PavecaLdataConeccetionAS400\PavecaLdataConeccetionAS400.csproj", "{0CB4362E-6704-41FF-9A29-A023619A5A3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PavecaCommonlDataLibreryAS400", "PavecaCommonlDataLibreryAS400\PavecaCommonlDataLibreryAS400.csproj", "{1EB9F487-4FA5-45A6-903C-D6DFD4729379}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F27A55AC-1A4B-4462-955E-A58EFFBCE12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27A55AC-1A4B-4462-955E-A58EFFBCE12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27A55AC-1A4B-4462-955E-A58EFFBCE12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27A55AC-1A4B-4462-955E-A58EFFBCE12B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB4362E-6704-41FF-9A29-A023619A5A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB4362E-6704-41FF-9A29-A023619A5A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB4362E-6704-41FF-9A29-A023619A5A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB4362E-6704-41FF-9A29-A023619A5A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EB9F487-4FA5-45A6-903C-D6DFD4729379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB9F487-4FA5-45A6-903C-D6DFD4729379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB9F487-4FA5-45A6-903C-D6DFD4729379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB9F487-4FA5-45A6-903C-D6DFD4729379}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

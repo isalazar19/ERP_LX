@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/ACRP393_deploy" />
+  <setParameter name="connectStringVE-Web.config Connection String" value="DataSource=APPN.VENEZUEL;userid=conexion;password=conexion01;DefaultCollection=V82BPCSF;LibraryList=V82BPCSF,V82BPCSUSF" />
+  <setParameter name="connectStringPE-Web.config Connection String" value="DataSource=APPN.COLOMBIA;userid=conexion;password=conexion01;DefaultCollection=P82BPCSF;LibraryList=P82BPCSF,P82BPCSUSF" />
+  <setParameter name="connectStringCO-Web.config Connection String" value="DataSource=APPN.COLOMBIA;userid=conexion;password=conexion01;DefaultCollection=C82BPCSF;LibraryList=C82BPCSF,C82BPCSUSF" />
+  <setParameter name="connectStringGU-Web.config Connection String" value="DataSource=APPN.GUATEMAL;userid=conexion;password=conexion01;DefaultCollection=G82BPCSF;LibraryList=G82BPCSF,G82BPCSUSF" />
+  <setParameter name="connectStringTT-Web.config Connection String" value="DataSource=APPN.PERU;userid=conexion;password=conexion01;DefaultCollection=T82BPCSF;LibraryList=T82BPCSF,T82BPCSUSF" />
+  <setParameter name="connectStringPAN-Web.config Connection String" value="DataSource=APPN.COLOMBIA;userid=conexion;password=conexion01;DefaultCollection=PANLX834F;LibraryList=PANLX834F,PANLXUSRF" />
+  <setParameter name="connectStringDES-Web.config Connection String" value="DataSource=APPN.DESARROL;userid=conexion;password=conexion01;DefaultCollection=V82BPCSF;LibraryList=V82BPCSF,V82BPCSUSF" />
+</parameters>

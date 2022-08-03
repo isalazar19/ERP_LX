@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="connectStringVE-Web.config Connection String" description="connectStringVE Connection String used in web.config by the application to access the database." defaultvalue="DataSource=APPN.VENEZUEL;userid=conexion;password=conexion01;DefaultCollection=V82BPCSF;LibraryList=V82BPCSF,V82BPCSUSF" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Sistemas\\ERP-LX\\ACRP393\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connectStringVE']/@connectionString" />
+  </parameter>
+  <parameter name="connectStringPE-Web.config Connection String" description="connectStringPE Connection String used in web.config by the application to access the database." defaultvalue="DataSource=APPN.COLOMBIA;userid=conexion;password=conexion01;DefaultCollection=P82BPCSF;LibraryList=P82BPCSF,P82BPCSUSF" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Sistemas\\ERP-LX\\ACRP393\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connectStringPE']/@connectionString" />
+  </parameter>
+  <parameter name="connectStringCO-Web.config Connection String" description="connectStringCO Connection String used in web.config by the application to access the database." defaultvalue="DataSource=APPN.COLOMBIA;userid=conexion;password=conexion01;DefaultCollection=C82BPCSF;LibraryList=C82BPCSF,C82BPCSUSF" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Sistemas\\ERP-LX\\ACRP393\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connectStringCO']/@connectionString" />
+  </parameter>
+  <parameter name="connectStringGU-Web.config Connection String" description="connectStringGU Connection String used in web.config by the application to access the database." defaultvalue="DataSource=APPN.CENTROA;userid=conexion;password=conexion01;DefaultCollection=G82BPCSF;LibraryList=G82BPCSF,G82BPCSUSF" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Sistemas\\ERP-LX\\ACRP393\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connectStringGU']/@connectionString" />
+  </parameter>
+  <parameter name="connectStringTT-Web.config Connection String" description="connectStringTT Connection String used in web.config by the application to access the database." defaultvalue="DataSource=APPN.PERU;userid=conexion;password=conexion01;DefaultCollection=T82BPCSF;LibraryList=T82BPCSF,T82BPCSUSF" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Sistemas\\ERP-LX\\ACRP393\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connectStringTT']/@connectionString" />
+  </parameter>
+  <parameter name="connectStringPAN-Web.config Connection String" description="connectStringPAN Connection String used in web.config by the application to access the database." defaultvalue="DataSource=APPN.CENTROA;userid=conexion;password=conexion01;DefaultCollection=PANLX834F;LibraryList=PANLX834F,PANLXUSRF" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Sistemas\\ERP-LX\\ACRP393\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connectStringPAN']/@connectionString" />
+  </parameter>
+  <parameter name="connectStringDES-Web.config Connection String" description="connectStringDES Connection String used in web.config by the application to access the database." defaultvalue="DataSource=APPN.DESARROL;userid=conexion;password=conexion01;DefaultCollection=V82BPCSF;LibraryList=V82BPCSF,V82BPCSUSF" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Sistemas\\ERP-LX\\ACRP393\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connectStringDES']/@connectionString" />
+  </parameter>
+</parameters>

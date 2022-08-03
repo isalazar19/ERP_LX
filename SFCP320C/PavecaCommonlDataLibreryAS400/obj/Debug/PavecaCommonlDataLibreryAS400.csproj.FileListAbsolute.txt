@@ -1,0 +1,8 @@
+C:\Users\roy.gutierrez\Documents\Visual Studio 2010\Projects\ProeficPAVECA\PavecaCommonlDataLibreryAS400\bin\Debug\PavecaCommonlDataLibreryAS400.dll
+C:\Users\roy.gutierrez\Documents\Visual Studio 2010\Projects\ProeficPAVECA\PavecaCommonlDataLibreryAS400\bin\Debug\PavecaCommonlDataLibreryAS400.pdb
+C:\Users\roy.gutierrez\Documents\Visual Studio 2010\Projects\ProeficPAVECA\PavecaCommonlDataLibreryAS400\obj\Debug\PavecaCommonlDataLibreryAS400.dll
+C:\Users\roy.gutierrez\Documents\Visual Studio 2010\Projects\ProeficPAVECA\PavecaCommonlDataLibreryAS400\obj\Debug\PavecaCommonlDataLibreryAS400.pdb
+C:\Sistemas\ERP-LX\SFCP320C\PavecaCommonlDataLibreryAS400\bin\Debug\PavecaCommonlDataLibreryAS400.dll
+C:\Sistemas\ERP-LX\SFCP320C\PavecaCommonlDataLibreryAS400\bin\Debug\PavecaCommonlDataLibreryAS400.pdb
+C:\Sistemas\ERP-LX\SFCP320C\PavecaCommonlDataLibreryAS400\obj\Debug\PavecaCommonlDataLibreryAS400.dll
+C:\Sistemas\ERP-LX\SFCP320C\PavecaCommonlDataLibreryAS400\obj\Debug\PavecaCommonlDataLibreryAS400.pdb

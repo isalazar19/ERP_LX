@@ -1,0 +1,4 @@
+C:\Sistemas\ERP-LX\SFCP320C\PavecaCommonlDataLibreryAS400\bin\Release\PavecaCommonlDataLibreryAS400.dll
+C:\Sistemas\ERP-LX\SFCP320C\PavecaCommonlDataLibreryAS400\bin\Release\PavecaCommonlDataLibreryAS400.pdb
+C:\Sistemas\ERP-LX\SFCP320C\PavecaCommonlDataLibreryAS400\obj\Release\PavecaCommonlDataLibreryAS400.dll
+C:\Sistemas\ERP-LX\SFCP320C\PavecaCommonlDataLibreryAS400\obj\Release\PavecaCommonlDataLibreryAS400.pdb

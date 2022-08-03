@@ -1,0 +1,10 @@
+C:\Users\roy.gutierrez\Documents\Visual Studio 2010\Projects\ProeficPAVECA\PavecaLdataConeccetionAS400\bin\Debug\PavecaLdataConeccetionAS400.dll
+C:\Users\roy.gutierrez\Documents\Visual Studio 2010\Projects\ProeficPAVECA\PavecaLdataConeccetionAS400\bin\Debug\PavecaLdataConeccetionAS400.pdb
+C:\Users\roy.gutierrez\Documents\Visual Studio 2010\Projects\ProeficPAVECA\PavecaLdataConeccetionAS400\obj\Debug\PavecaLdataConeccetionAS400.csprojResolveAssemblyReference.cache
+C:\Users\roy.gutierrez\Documents\Visual Studio 2010\Projects\ProeficPAVECA\PavecaLdataConeccetionAS400\obj\Debug\PavecaLdataConeccetionAS400.dll
+C:\Users\roy.gutierrez\Documents\Visual Studio 2010\Projects\ProeficPAVECA\PavecaLdataConeccetionAS400\obj\Debug\PavecaLdataConeccetionAS400.pdb
+C:\Sistemas\ERP-LX\SFCP320C\PavecaLdataConeccetionAS400\bin\Debug\PavecaLdataConeccetionAS400.dll
+C:\Sistemas\ERP-LX\SFCP320C\PavecaLdataConeccetionAS400\bin\Debug\PavecaLdataConeccetionAS400.pdb
+C:\Sistemas\ERP-LX\SFCP320C\PavecaLdataConeccetionAS400\obj\Debug\PavecaLdataConeccetionAS400.csprojResolveAssemblyReference.cache
+C:\Sistemas\ERP-LX\SFCP320C\PavecaLdataConeccetionAS400\obj\Debug\PavecaLdataConeccetionAS400.dll
+C:\Sistemas\ERP-LX\SFCP320C\PavecaLdataConeccetionAS400\obj\Debug\PavecaLdataConeccetionAS400.pdb

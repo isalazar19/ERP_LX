@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/BILP599C_deploy" />
+  <setParameter name="DOTNETAPPNDESARROL-Web.config Connection String" value="Driver={iSeries Access ODBC Driver};system=APPN.DESARROL;uid=ADONET;pwd=ADONET01;dbq=V82BPCSF V82BPCSUSF;dftpkglib=QGPL;languageid=ENU;pkg=QGPL/DEFAULT(IBM),2,0,1,0,512;desc=ERP BPCS82 Bib. Principal;cmt=0;translate=1;querytimeout=0" />
+</parameters>

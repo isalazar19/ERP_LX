@@ -1,0 +1,5 @@
+C:\Sistemas\ERP-LX\SFCP320C\PavecaLdataConeccetionAS400\bin\Release\PavecaLdataConeccetionAS400.dll
+C:\Sistemas\ERP-LX\SFCP320C\PavecaLdataConeccetionAS400\bin\Release\PavecaLdataConeccetionAS400.pdb
+C:\Sistemas\ERP-LX\SFCP320C\PavecaLdataConeccetionAS400\obj\Release\PavecaLdataConeccetionAS400.csprojResolveAssemblyReference.cache
+C:\Sistemas\ERP-LX\SFCP320C\PavecaLdataConeccetionAS400\obj\Release\PavecaLdataConeccetionAS400.dll
+C:\Sistemas\ERP-LX\SFCP320C\PavecaLdataConeccetionAS400\obj\Release\PavecaLdataConeccetionAS400.pdb

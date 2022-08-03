@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DOTNETAPPNDESARROL-Web.config Connection String" description="DOTNETAPPNDESARROL Connection String used in web.config by the application to access the database." defaultvalue="Driver={iSeries Access ODBC Driver};system=APPN.DESARROL;uid=ADONET;pwd=ADONET01;dbq=V82BPCSF V82BPCSUSF;dftpkglib=QGPL;languageid=ENU;pkg=QGPL/DEFAULT(IBM),2,0,1,0,512;desc=ERP BPCS82 Bib. Principal;cmt=0;translate=1;querytimeout=0" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\ARCHIVOS\\PROYECTOS\\ERP-EXTRALX\\BILP599C\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DOTNETAPPNDESARROL']/@connectionString" />
+  </parameter>
+</parameters>

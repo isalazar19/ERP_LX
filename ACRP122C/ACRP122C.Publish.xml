@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="https://PAPIFLS01.papeleslatinos.com:8172/MsDeploy.axd" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="REGIONAL-ERP-AppExtra/ACRP122C" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="False" msdeployMarkAsApp="True" profileName="Profile1" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="papeleslatinos\ivan.salazar" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAtn3vHrvDB0usSr4h2QuYOgAAAAACAAAAAAADZgAAwAAAABAAAAAptSScvsNyjGjWcdF3eP74AAAAAASAAACgAAAAEAAAAIZT9fHsrWFr9htaqqJWooMgAAAAPGRSh7EnVjctCH6KXx0HayjKezMvMXA4WiGSWA4Y/r4UAAAApGFWFkQgyKy1AtPWt5WclFG0HTY=" SelectedForPublish="True" />
+</publishData>

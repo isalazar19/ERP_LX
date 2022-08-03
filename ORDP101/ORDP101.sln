@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORDP101", "ORDP101.csproj", "{5CEC0626-37AD-4B6A-81EF-5B6F4A1876CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CEC0626-37AD-4B6A-81EF-5B6F4A1876CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEC0626-37AD-4B6A-81EF-5B6F4A1876CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEC0626-37AD-4B6A-81EF-5B6F4A1876CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEC0626-37AD-4B6A-81EF-5B6F4A1876CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
